@@ -22,9 +22,9 @@ Dash Dot Plot
 A dash-dot-plot places a tick mark on the axis for each value in a
 scatter plot.  When there are many values in the graph this can be a
 more effective way to understand their distribution than looking at
-the raw data.  For example:
+the raw data.  For example see
 
-![Example of a dash dot plot]("http://hupp.org//adam/images/ddp.png")
+![Example of a dash dot plot](http://hupp.org//adam/images/ddp.png)
 
 See [demo_ddp.py](http://github.com/ahupp/etframes/blob/master/demo_ddp.py)
 for a working example.
@@ -37,7 +37,7 @@ information.  Instead of drawing a full frame around the graph the
 frame is only drawn from the minimum to the maximum value along that
 axis.  For example:
 
-![Example of a range frame]("http://hupp.org/adam/images/range.png")
+![Example of a range frame](http://hupp.org/adam/images/range.png)
 
 See [demo_range.py](http://github.com/ahupp/etframes/blob/master/demo_range.py)
 for a working example.
